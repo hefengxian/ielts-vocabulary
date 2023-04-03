@@ -4,10 +4,51 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>IELTS Vocabulary</title>
+    <link rel="icon" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.global.min.js"></script>
+    <script src="vocabulary.js"></script>
 </head>
 <body>
-    <h1>Hello World.</h1>
+    <div id="app">
+        <div class="title-area">
+
+        </div>
+        <div class="filter-area">
+            <input type="text" v-model="keyword" placeholder="Keyword to search">
+        </div>
+        <div class="main-area">
+            <table>
+                <thead>
+                    <tr>
+                        <td>#</td>
+                        <td>词</td>
+                        <td>词性</td>
+                        <td>词义</td>
+                        <td>例句</td>
+                        <td>扩展</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <template v-for="category of wordList">
+                        <tr>
+                            <td :colspan="6">{{category.label}}</td>
+                        </tr>
+                        <tr v-for="item of category.words"
+                            :key="item.id">
+                            <td>{{item.id}}</td>
+                            <td>{{item.word}}</td>
+                            <td>{{item.pos}}</td>
+                            <td>{{item.meaning}}</td>
+                            <td>{{item.example}}</td>
+                            <td>{{item.extra}}</td>
+                        </tr>
+                    </template>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="index.js"></script>
 </body>
 </html>

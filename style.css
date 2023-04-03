@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+input {
+    padding: 0.67857143em 1em;
+    background: #fff;
+    border: 1px solid rgba(34,36,38,.15);
+    color: rgba(0,0,0,.87);
+    border-radius: 0.28571429rem;
+    outline: 0;
+}
+
+.main-area {
+    margin-top: 16px;
+}
+
+.main-area table {
+    width: 100%;
+    border-spacing: 0;
+    border: 1px solid #ebeef5;
+    border-radius: 0.2em;
+}
+.main-area table tbody tr:last-child td{
+    border-bottom: 0;
+}
+
+.main-area table td {
+    padding: 10px;
+    border-bottom: 1px solid #ebeef5;
+    border-right: 1px solid #ebeef5;
+}
