@@ -13,21 +13,37 @@
 <body>
     <div id="app">
         <div class="title-area">
-
+            <img src="favicon.png" alt="Logo">
+            <h1>雅思词汇表</h1>
+            <p>根据雅思词汇真经整理</p>
         </div>
         <div class="filter-area">
-            <input type="text" v-model="keyword" placeholder="Keyword to search">
+            <div class="left">
+                <label>
+                    类别
+                    <select v-model="category">
+                        <option value="">全部</option>
+                        <option 
+                            v-for="(v, k) in vocabulary"
+                            :value="k">{{k}}</option>
+                    </select>
+                </label>
+            </div>
+            <div class="right">
+                
+                <input type="text" v-model="keyword" placeholder="Keyword to search">
+            </div>
         </div>
         <div class="main-area">
             <table>
                 <thead>
                     <tr>
-                        <td>#</td>
-                        <td>词</td>
-                        <td>词性</td>
-                        <td>词义</td>
-                        <td>例句</td>
-                        <td>扩展</td>
+                        <th class="index">#</th>
+                        <th class="word">词</th>
+                        <th class="pos">词性</th>
+                        <th class="meaning">词义</th>
+                        <th class="example">例句</th>
+                        <th class="extra">扩展</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -38,7 +54,7 @@
                         <tr v-for="item of category.words"
                             :key="item.id">
                             <td>{{item.id}}</td>
-                            <td>{{item.word}}</td>
+                            <td><a target="_blank" :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`">{{item.word}}</a></td>
                             <td>{{item.pos}}</td>
                             <td>{{item.meaning}}</td>
                             <td>{{item.example}}</td>
@@ -49,6 +65,7 @@
             </table>
         </div>
     </div>
+    <footer>By Frank</footer>
     <script src="index.js"></script>
 </body>
 </html>

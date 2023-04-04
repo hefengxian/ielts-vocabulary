@@ -2,13 +2,72 @@
     box-sizing: border-box;
 }
 
+html {
+    font-family: system-ui;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #cf0031;
+}
+
+#app {
+    width: 70%;
+    margin: auto;
+}
+
+.index,
+.pos {
+    width: 1%;
+    word-break: keep-all;
+    text-align: center;
+}
+
+.word,
+.meaning,
+.example,
+.extra {
+    /* text-align: left; */
+}
+
+.title-area h1 {
+    text-align: center;
+}
+
+.title-area p {
+    text-align: center;
+    font-weight: 200;
+    font-size: 0.75em;
+}
+
+.filter-area {
+    margin-top: 16px;
+    display: flex;
+}
+
+.filter-area .left {
+    flex: 1;
+}
+
+.filter-area .right {}
+
+
 input {
-    padding: 0.67857143em 1em;
+    height: 35px;
+    padding: 0.6em 1em;
     background: #fff;
-    border: 1px solid rgba(34,36,38,.15);
-    color: rgba(0,0,0,.87);
+    border: 1px solid #ebeef5;
+    color: rgba(0, 0, 0, .87);
     border-radius: 0.28571429rem;
     outline: 0;
+}
+
+select {
+    height: 35px;
+    padding: 0.6em 1em;
+    outline: 0;
+    border: 1px solid #ebeef5;
+    border-radius: 0.28571429rem;
+    /* font-size: 1em; */
 }
 
 .main-area {
@@ -19,14 +78,38 @@ input {
     width: 100%;
     border-spacing: 0;
     border: 1px solid #ebeef5;
-    border-radius: 0.2em;
+    border-radius: 0.28571429rem;
 }
-.main-area table tbody tr:last-child td{
+
+.main-area table thead tr {
+    /* background-color: #f1f1f1; */
+}
+
+.main-area table tr:last-child td {
     border-bottom: 0;
 }
 
-.main-area table td {
+.main-area table td,
+.main-area table th {
     padding: 10px;
     border-bottom: 1px solid #ebeef5;
     border-right: 1px solid #ebeef5;
+}
+
+.main-area table th {
+    padding: 16px 10px;
+}
+
+.main-area table td:last-child,
+.main-area table th:last-child {
+    border-right: none;
+}
+
+.main-area table tbody tr:hover {
+    background-color: #f8f8f8;
+}
+
+footer {
+    padding: 32px;
+    text-align: center;
 }
