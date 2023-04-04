@@ -57,7 +57,7 @@ const vocabulary = {
             {id: 49, word: 'drought', pos: 'n.', meaning: '干旱，旱灾', example: '', extra: 'dry/arid 干燥的'},
             {id: 50, word: 'earthquake', pos: 'n.', meaning: '地震', example: '', extra: 'dry/arid 干燥的'},
             {id: 51, word: 'seismic', pos: 'adj.', meaning: '地震的，地震引起的', example: 'a seismic wave 地震波', extra: ''},
-            {id: 52, word: 'avalance', pos: 'n.', meaning: '雪崩', example: '', extra: ''},
+            {id: 52, word: 'avalanche', pos: 'n.', meaning: '雪崩', example: '', extra: ''},
             {id: 53, word: 'terrain', pos: 'n.', meaning: '地形', example: 'a terrain feature 地形特征', extra: ''},
             {id: 54, word: 'landscape', pos: 'n.', meaning: '风景；对...进行美化', example: '', extra: ''},
             {id: 55, word: 'continent', pos: 'n.', meaning: '大陆、洲', example: '', extra: 'continental breakfast 欧早餐'},
