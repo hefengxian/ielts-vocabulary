@@ -20,9 +20,13 @@ const opts = {
             if (keywordValue != '') {
                 for (let key in result) {
                     let category = result[key]
-                    category.words = category.words.filter(item => {
-                        return item.word.includes(keywordValue)
+                    const words = []
+                    category.words.forEach(group => {
+                        words.push(group.filter(item => {
+                            return item.word.includes(keywordValue)
+                        }))
                     })
+                    category.words = words
                 }
             }
             return result

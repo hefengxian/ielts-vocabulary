@@ -10,6 +10,8 @@ a:link, a:visited, a:hover, a:active {
     color: #cf0031;
 }
 
+
+
 #app {
     width: 70%;
     margin: auto;
@@ -17,7 +19,6 @@ a:link, a:visited, a:hover, a:active {
 
 .index,
 .pos {
-    width: 1%;
     word-break: keep-all;
     text-align: center;
 }
@@ -27,6 +28,26 @@ a:link, a:visited, a:hover, a:active {
 .example,
 .extra {
     /* text-align: left; */
+}
+
+.category-label {
+    border-left: 8px solid #f3f3f3;
+    background-color: #f3f3f3;
+}
+.group-color-0 {
+    border-left: 8px solid #c5e4d4;
+}
+.group-color-1 {
+    border-left: 8px solid #fffdd7;
+}
+.group-color-2 {
+    border-left: 8px solid #fae0bf;
+}
+.group-color-3 {
+    border-left: 8px solid #f8c7dc;
+}
+.group-color-4 {
+    border-left: 8px solid #c7cde7;
 }
 
 .title-area h1 {
@@ -72,21 +93,24 @@ select {
 
 .main-area {
     margin-top: 16px;
+    overflow-x: auto;
+    max-width: 100vw;
+    /* font-style: italic; */
 }
 
 .main-area table {
     width: 100%;
     border-spacing: 0;
-    border: 1px solid #ebeef5;
-    border-radius: 0.28571429rem;
+    border-collapse: collapse;
+    table-layout: auto;
 }
 
-.main-area table thead tr {
-    /* background-color: #f1f1f1; */
-}
-
-.main-area table tr:last-child td {
+/* .main-area table tr:last-child td {
     border-bottom: 0;
+} */
+
+.main-area table thead {
+    border: 8px solid #ebeef5;
 }
 
 .main-area table td,
@@ -100,16 +124,23 @@ select {
     padding: 16px 10px;
 }
 
-.main-area table td:last-child,
+/* .main-area table td:last-child,
 .main-area table th:last-child {
     border-right: none;
-}
+} */
 
-.main-area table tbody tr:hover {
+/* .main-area table tbody tr:hover {
     background-color: #f8f8f8;
-}
+    font-style: italic;
+} */
 
 footer {
     padding: 32px;
     text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    #app {
+        width: 100%;
+    }
 }

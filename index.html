@@ -30,13 +30,12 @@
                 </label>
             </div>
             <div class="right">
-                
                 <input type="text" v-model="keyword" placeholder="Keyword to search">
             </div>
         </div>
         <div class="main-area">
             <table>
-                <thead>
+                <!-- <thead>
                     <tr>
                         <th class="index">#</th>
                         <th class="word">词</th>
@@ -45,23 +44,24 @@
                         <th class="example">例句</th>
                         <th class="extra">扩展</th>
                     </tr>
-                </thead>
-                <tbody>
-                    <template v-for="category of wordList">
-                        <tr>
-                            <td :colspan="6">{{category.label}}</td>
-                        </tr>
-                        <tr v-for="item of category.words"
+                </thead> -->
+                <template v-for="category of wordList">
+                    <tbody class="category-label"><tr><td :colspan="6">{{category.label}}</td></tr></tbody>
+                    <tbody
+                        v-for="(wordGroup, i) of category.words"
+                        :class="`group-color-${i % 5}`">
+                        <tr 
+                            v-for="item of wordGroup"
                             :key="item.id">
-                            <td>{{item.id}}</td>
+                            <td class="index">{{item.id}}</td>
                             <td><a target="_blank" :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`">{{item.word}}</a></td>
-                            <td>{{item.pos}}</td>
+                            <td class="pos">{{item.pos}}</td>
                             <td>{{item.meaning}}</td>
                             <td>{{item.example}}</td>
                             <td>{{item.extra}}</td>
                         </tr>
-                    </template>
-                </tbody>
+                    </tbody>
+                </template>
             </table>
         </div>
     </div>

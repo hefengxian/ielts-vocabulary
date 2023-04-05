@@ -1,0 +1,31 @@
+自然地理
++++
+ocean|n.|海洋；洋|These creatures live in the depth of the Pacific Ocean|an ocean of/oceans of 大量
+marine|adj. n.|海洋的；海生的；海事的；水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
+navigation|n.|航海；航行|Navigation is a game for brave people|navigator n. 航海家；领航员
+---
+gulf|n.|海湾
+beach|n.|海滩；河滩
+coast|n.|海岸；海滨
+---
+shore|n.|（海、湖等大水域的）岸；滨|His ship pulled in to the shore at midnight
+tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon and the earth causes tides|tidal adj. 潮汐的。at low tide 退潮时，低潮时。Time and tide wait for no man 岁月不等人
+current|n.|水流；潮流；电流；气流|He was swept away by the current
+---
+brook|n.|小河；溪
+stream|n. v.|小河；溪；流；流动；流出
+source
+shallow
+===
+植物研究
++++
+photosynthesis|n.|光合作用
+respire|v.|呼吸
+dioxide|n.|二氧化物
+===
+动物保护
++++
+biologist|n.|生物学家
+zoologist|n.|动物学家
+ecologist|n.|生态学家
+botanist|n.|植物学家
