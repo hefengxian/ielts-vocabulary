@@ -1,9 +1,14 @@
+@font-face {
+    font-family: DINRegular;
+    src: url("DIN-Regular.otf");
+}
+
 * {
     box-sizing: border-box;
 }
 
 html {
-    font-family: times;
+    font-family: DINRegular, system-ui;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -33,7 +38,6 @@ a:link, a:visited, a:hover, a:active {
 .example,
 .extra {
     font-style: italic;
-    font-family: times, system-ui;
 }
 
 .category-label {
