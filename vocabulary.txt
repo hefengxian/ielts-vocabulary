@@ -23,8 +23,8 @@ mishap|n.|小灾难|A mishap prevented him from attending the routine company me
 catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have ben catastrophic
 calamity|n.|灾难；不幸的事|A hurricane would be a calamity for this low-lying coastal region|cause a calamity 酿成灾祸
 ---
-endanger|v.|If you are work hard without reset, you will endanger your health|endangered adj./濒临灭绝
-jeopardise=jeopardize|v.|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危机某人生命
+endanger|v.|使遭受危险；危及|If you are work hard without reset, you will endanger your health|endangered adj./濒临灭绝
+jeopardise=jeopardize|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危机某人生命
 destructive|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
 ---
 El Nino|n.|厄尔尼诺现象
