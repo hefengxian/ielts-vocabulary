@@ -3,7 +3,7 @@
 }
 
 html {
-    font-family: system-ui;
+    font-family: times;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -22,12 +22,20 @@ a:link, a:visited, a:hover, a:active {
     word-break: keep-all;
     text-align: center;
 }
+.pos {
+    font-style: italic;
+    font-family: times;
+}
 
 .word,
-.meaning,
+.meaning {
+    font-family: system-ui;
+}
+
 .example,
 .extra {
-    /* text-align: left; */
+    font-style: italic;
+    font-family: times, system-ui;
 }
 
 .category-label {

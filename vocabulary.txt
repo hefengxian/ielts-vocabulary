@@ -1,21 +1,191 @@
 自然地理
 +++
+atmosphere|n.|大气层；氛围|The approaching examination created a tense atmosphere on the campus
+hydrosphere|n.|水圈；大气中的水汽|All the water in the earth's surface is included in the hydrosphere
+lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the earth's surface
+---
+oxygen|n.|氧气
+oxide|n.|氧化物
+carbon dioxied|n.|二氧化碳
+hydrogen|n.|氢气
+---
+core|n.|中心；核心；地核
+crust|n.|地壳；外壳|The crust on the snow was thick enough for to walk on it
+mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
+---
+longitude|n.|经度
+latitude|n.|维度
+horizon|n.|地平线；眼界；见识
+altitude|n.|海拔；高度
+---
+disaster|n.|灾难|There was a great flood disaster in East China|a disaster film/movie 灾难片
+mishap|n.|小灾难|A mishap prevented him from attending the routine company meeting
+catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have ben catastrophic
+calamity|n.|灾难；不幸的事|A hurricane would be a calamity for this low-lying coastal region|cause a calamity 酿成灾祸
+---
+endanger|v.|If you are work hard without reset, you will endanger your health|endangered adj./濒临灭绝
+jeopardise=jeopardize|v.|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危机某人生命
+destructive|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
+---
+El Nino|n.|厄尔尼诺现象
+greenhouse|n.|温室；暖房
+phenomenon|n.|现象|Snow is an almost unknown phenomenon in Egypt|复数形式：phenomena；a natural phenomenon 自然现象；a social phenomenon 社会现象
+---
+pebble|n.|鹅卵石
+magnet|n.|磁铁；吸铁石|He picked all the pins up with a magnet|magnetic adj./词的，有磁性的；有吸引力的
+ore|n.|矿石；矿
+mineral|n.|矿物；矿物质；矿场
+---
+marble|n.|大理石
+quartz|n.|石英
+granite|n.|花岗岩
+---
+gust|n.|一整狂风；（情感的）迸发
+breeze|n.|微分；和风
+monsoon|n.|季风；雨季
+gale|n.|大风
+---
+hurricane|n.|飓风；暴风
+tornado|n.|龙卷风
+typhoon|n.|台风
+---
+volcano|n.|火山
+erupt|v.|爆发；喷发；（斑疹等）突然出现
+magma|n.|岩浆
+themodynamic|adj.|热力的；热力学的
+---
+smog|n.|烟雾；雾霾
+fume|n./v.|（难闻有害的）烟，气体|Petrol fumes from cars are poisoning the atmosphere
+mist|n.|薄雾；水汽；使视线模糊的东西
+---
+tsunami|n.|海啸
+drought|n.|干旱；旱灾
+flooding|n.|洪水泛滥
+torrent|n.|激流；洪流
+---
+earthquake|n.|地震
+seismic|adj.|地震的；地震引起的
+avalanche|n.|雪崩
+---
+terrian|n.|地形
+landscape|n./v.|风景；地貌；对...进行景观美化
+continent|n.|大陆；洲
+---
+cave|n.|洞穴；山洞
+cliff|n.|悬崖；峭壁
+glacier|n.|冰川；冰河
+swamp|n.|沼泽；湿地
+---
+delta|n.|三角洲
+plain|n./adj.|平原；简朴的；明白的
+plateau|n.|高原
+oasis|n.|绿洲；宜人之地
+---
+globe|n.|球体；地球仪
+hemishpere|n.|半球
+equator|n.|赤道
+---
+arctic|adj./n.|北极的；极冷的；北极地区；北极
+Antarctic|adj./n.|南极的；南极地区；南极洲
+pole|n.|（地）极；截然相反的两极之一|English is spoken from pole to pole|the South Pole 南极
+polar|adj.|极地的；近极地的；对立的|In these polar region, the balance of nature has already been disrupted|a polar bear 北极熊；polarize v./使两极分化
+axis|n.|轴；轴线|The earth's axis is the line between the North and South Poles
+---
+deteriorate|v.|恶化；变坏
+aggravate|v.|加重；加剧；使恶化
+degrade|v.|降解；降低...身份；使恶化；使退化
+upgrade|v.|使升级；提高；改善
+erode|v.|侵蚀；腐蚀|The waves erode the rocks on the shore|erosion n./侵蚀；腐蚀
+---
+Mediterranean|adj./n.|地中海的；地中海地区的；地中海；地中海地区
+Atlantic|n.|大西洋
+pacific|adj./n.|平静的；平和的；太平洋的；太平洋|What a beautiful and pacific place this is|pacify v./平息；安抚；使平静
+---
 ocean|n.|海洋；洋|These creatures live in the depth of the Pacific Ocean|an ocean of/oceans of 大量
-marine|adj. n.|海洋的；海生的；海事的；水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
-navigation|n.|航海；航行|Navigation is a game for brave people|navigator n. 航海家；领航员
+marine|adj./n.|海洋的；海生的；海事的；水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
+navigation|n.|航海；航行|Navigation is a game for brave people|navigator n./航海家；领航员
 ---
 gulf|n.|海湾
 beach|n.|海滩；河滩
 coast|n.|海岸；海滨
 ---
 shore|n.|（海、湖等大水域的）岸；滨|His ship pulled in to the shore at midnight
-tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon and the earth causes tides|tidal adj. 潮汐的。at low tide 退潮时，低潮时。Time and tide wait for no man 岁月不等人
+tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon and the earth causes tides|tidal adj./潮汐的。at low tide 退潮时，低潮时。Time and tide wait for no man 岁月不等人
 current|n.|水流；潮流；电流；气流|He was swept away by the current
 ---
 brook|n.|小河；溪
-stream|n. v.|小河；溪；流；流动；流出
-source
-shallow
+stream|n./v.|小河；溪；流；流动；流出
+source|n.|河的源头；根源
+shallow|adj.|浅的；肤浅的；浅薄的
+---
+superficial|adj.|表皮的；表层的
+flat|adj.|平躺的；扁平的；单调的
+smooth|adj.|光滑的；平稳的；流畅的
+rough|adj.|粗糙的；粗略的
+sandy|adj.|含沙的；铺满沙的
+stony|adj.|石头的；多石的
+---
+vertical|adj.|垂直的；直立的
+steep|adj.|陡峭的
+parallel|n./adj./v.|parallel|平行线；相似之处；平行的；与...相比；比得上
+narrow|adj./n.|狭窄的；有极限的
+---
+Oceania|n.|大洋洲
+mainland|n.|
+peninsula|n.|半岛
+---
+climate|n.
+weather|n.
+meteorology|n.
+---
+mild|adj.|温和的；不严重的
+heating|n.|供暖；暖气装置
+moderate|adj./v.|适度的；温和的；中等的；使缓和|The wind was strong all day, but it moderated in the evening|a moderate climate 温和的气候
+warm|adj./v.
+---
+thermal|adj.|热量的
+tropics|n.|热带地区
+arid|adj.|干燥的；干旱的；枯燥的
+---
+moist|adj.|潮湿的；湿润的
+damp|adj.|湿气重的；潮湿的
+humid|adj.|潮湿的；湿热的
+---
+snowy|adj.
+frost|n.|霜；霜冻；严寒
+hail|n./v.|冰雹；赞扬；招呼；下冰雹
+thaw|v./n.|解冻；融解；融化；解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；shi...变暖
+---
+chill|v./n.|使变冷；使恐惧；寒冷；害怕|The bad news cast a chill over the whole family|chilly adj./寒冷的；chill enthusiasm 使热情冷却
+freeze|v./n.|结冰；霜冻；严寒期
+frigid|adj.|寒冷的|Hohhot is a frigid city in the winter|the frigid zones 寒带
+tremble|v./n.|战栗；颤抖
+shiver|v.|颤抖；哆嗦；发抖|She was shivered because she was worried and afraid|shiver with cold 冻的发抖
+---
+thunder|n./v.
+lightning|n./v.
+stormy|adj.
+---
+downpour|n.|倾盆大雨
+rainfall|n.|降雨量
+sprinkle|v./n.|撒；下小雨；少量；小雨|We've only had a sprinkles of rain recently
+rainbow|n.
+shower|n.|阵；阵雨；淋浴|The weatherman predicts showers this afternoon
+---
+Celsius|adj./n.|摄氏的；摄氏温度
+temperature|n.
+forecast|n./v.
+---
+peak|n./v.|山峰；顶点；达到最大值
+mount|v./n.|渐渐增加；爬上；登上；山
+mountain|n.
+range|n.|山脉；范围
+---
+ridge|n./v.|山脊；山脉；使隆起
+slope|v./n.|倾斜；有坡度；山坡；斜坡
+valley|n.|山谷；溪谷
+hillside|n.|小山的山腰；山坡
+overlook|v.|远眺；俯瞰；未注意到|The house on the hill overlooks the village|be easily overlook 容易被忽略的
 ===
 植物研究
 +++
