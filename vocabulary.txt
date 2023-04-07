@@ -82,7 +82,7 @@ plateau|n.|高原
 oasis|n.|绿洲；宜人之地
 ---
 globe|n.|球体；地球仪
-hemishpere|n.|半球
+hemisphere|n.|半球
 equator|n.|赤道
 ---
 arctic|adj./n.|北极的；极冷的；北极地区；北极
