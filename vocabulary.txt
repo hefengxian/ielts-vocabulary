@@ -38,9 +38,9 @@ mineral|n.|矿物；矿物质；矿场
 ---
 marble|n.|大理石
 quartz|n.|石英
-granite|n.|花岗岩
+granite|n.|花岗岩||bit on granite 白费力气；徒劳无功
 ---
-gust|n.|一整狂风；（情感的）迸发
+gust|n.|一整狂风；（情感的）迸发|A gust of wind blew the leaves off the trees
 breeze|n.|微分；和风
 monsoon|n.|季风；雨季
 gale|n.|大风
