@@ -20,11 +20,11 @@ altitude|n.|海拔；高度
 ---
 disaster|n.|灾难|There was a great flood disaster in East China|a disaster film/movie 灾难片
 mishap|n.|小灾难|A mishap prevented him from attending the routine company meeting
-catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have ben catastrophic
+catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have been catastrophic
 calamity|n.|灾难；不幸的事|A hurricane would be a calamity for this low-lying coastal region|cause a calamity 酿成灾祸
 ---
 endanger|v.|使遭受危险；危及|If you are work hard without reset, you will endanger your health|endangered adj./濒临灭绝
-jeopardise=jeopardize|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危机某人生命
+jeopardise|v.|=jeopardize 危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
 destructive|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
 ---
 El Nino|n.|厄尔尼诺现象
@@ -67,7 +67,7 @@ earthquake|n.|地震
 seismic|adj.|地震的；地震引起的
 avalanche|n.|雪崩
 ---
-terrian|n.|地形
+terrain|n.|地形
 landscape|n./v.|风景；地貌；对...进行景观美化
 continent|n.|大陆；洲
 ---
@@ -82,35 +82,35 @@ plateau|n.|高原
 oasis|n.|绿洲；宜人之地
 ---
 globe|n.|球体；地球仪
-hemishpere|n.|半球
+hemisphere|n.|半球
 equator|n.|赤道
 ---
 arctic|adj./n.|北极的；极冷的；北极地区；北极
 Antarctic|adj./n.|南极的；南极地区；南极洲
 pole|n.|（地）极；截然相反的两极之一|English is spoken from pole to pole|the South Pole 南极
-polar|adj.|极地的；近极地的；对立的|In these polar region, the balance of nature has already been disrupted|a polar bear 北极熊；polarize v./使两极分化
+polar|adj.|极地的；近极地的；对立的|In these polar region, the balance of nature has already been disrupted|a polar bear 北极熊；polarize v. 使两极分化
 axis|n.|轴；轴线|The earth's axis is the line between the North and South Poles
 ---
 deteriorate|v.|恶化；变坏
 aggravate|v.|加重；加剧；使恶化
 degrade|v.|降解；降低...身份；使恶化；使退化
 upgrade|v.|使升级；提高；改善
-erode|v.|侵蚀；腐蚀|The waves erode the rocks on the shore|erosion n./侵蚀；腐蚀
+erode|v.|侵蚀；腐蚀|The waves erode the rocks on the shore|erosion n. 侵蚀；腐蚀
 ---
 Mediterranean|adj./n.|地中海的；地中海地区的；地中海；地中海地区
 Atlantic|n.|大西洋
-pacific|adj./n.|平静的；平和的；太平洋的；太平洋|What a beautiful and pacific place this is|pacify v./平息；安抚；使平静
+pacific|adj./n.|平静的；平和的；太平洋的；太平洋|What a beautiful and pacific place this is|pacify v. 平息；安抚；使平静
 ---
 ocean|n.|海洋；洋|These creatures live in the depth of the Pacific Ocean|an ocean of/oceans of 大量
 marine|adj./n.|海洋的；海生的；海事的；水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
-navigation|n.|航海；航行|Navigation is a game for brave people|navigator n./航海家；领航员
+navigation|n.|航海；航行|Navigation is a game for brave people|navigator n. 航海家；领航员
 ---
 gulf|n.|海湾
 beach|n.|海滩；河滩
 coast|n.|海岸；海滨
 ---
 shore|n.|（海、湖等大水域的）岸；滨|His ship pulled in to the shore at midnight
-tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon and the earth causes tides|tidal adj./潮汐的。at low tide 退潮时，低潮时。Time and tide wait for no man 岁月不等人
+tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon and the earth causes tides|tidal adj. 潮汐的。at low tide 退潮时，低潮时。Time and tide wait for no man 岁月不等人
 current|n.|水流；潮流；电流；气流|He was swept away by the current
 ---
 brook|n.|小河；溪
@@ -186,6 +186,126 @@ slope|v./n.|倾斜；有坡度；山坡；斜坡
 valley|n.|山谷；溪谷
 hillside|n.|小山的山腰；山坡
 overlook|v.|远眺；俯瞰；未注意到|The house on the hill overlooks the village|be easily overlook 容易被忽略的
+---
+southern|adj.|南方的
+southeast|n./adj.
+southwest|n./adj.
+---
+northeast|n./adj.
+northwest|n./adj.
+eastern|adj.
+oriental|adj.|东方的（尤其指中日）|She has studied the cultures of oriental countries
+---
+inevitable|adj.|必然的；不可避免的|Such a diffcult operation may not succeed, but it's an inevitable gamble|evitable adj. 可避免的
+irreversible|adj.|不可逆转的；不可挽回的
+irregularly|adv.|不规则地；不合常规地
+inappropriate|adj.|不合适的
+abnormal|adj.|不正常的；反常的；变态的
+---
+sediment|n.|沉积物；沉淀物
+silt|n./v.|淤泥；泥沙；使淤塞
+muddy|adj.|泥泞的；浑浊的
+clay|n.|黏土；陶土
+dirt|n.|污垢；灰尘；泥土
+---
+rural|adj.|农村的；乡村的；田园的
+suburb|n.|郊区；郊外；近郊
+outskirts|n.|郊区；市郊
+---
+remote|adj.|遥远的；偏僻的；疏远的|She came from a remote village|a remote control 遥控器
+desolate|adj.|荒凉的
+distant|adj.|疏远的；遥远的||the distant past 遥远的过去
+adjacent|adj.|邻近的；毗连的|We stayed in adjacent rooms|adjacent to 与...毗连的
+---
+toxic|adj.|有毒的|All medicines are toxic|poisonous adj. 有毒的；toxic waste 有毒的废物；highly toxic 剧毒的
+pollution|n.
+pollutant|n.|污染物质
+contaminate|v.|污染；弄脏
+---
+geology|n.|地质学；地质状况
+border|n./v.|边界；边界地区；镶边；和...毗邻；形成...边界
+margin|n.|边缘；页边空白；余地|There is no margin for error in our plan|allow a greater margin of 允许有更大的余地
+fringe|n./adj.|边缘；刘海；非主要的；而是次要的|We feel it's pretty good and we also offer some good fringe benefits
+---
+plate|n.|板块；盘
+debris|n.|碎片；残骸
+crack|v./n.|破裂；发出爆裂声；裂缝；缝隙|The door opened just a crack|cause a crack 弄出裂缝
+gap|n.|缺口；裂缝；差距；空白
+---
+splendid|adj.|极好的；壮观的|You're all doing a splendid job; keep up the good work|a splendid chance极好的机会
+grand|adj.|宏大的；豪华的；宏伟的；极好的
+magnificent|adj.|壮丽的；宏伟的；令人印象深刻的
+---
+super|adj.
+interesting|adj.
+dramatic|adj.|戏剧的；引人入胜的
+---
+wilderness|n.|荒野
+desert|n./v.|沙漠；遗弃|The baby's mother deserted him soon after giving birth|a cultural desert 文化沙漠
+deforest|v.|毁掉...深林||deforestation n. 毁林，滥伐深林
+---
+barren|adj.|贫瘠的；荒芜的；不结果实的
+fertile|adj.|富饶的；肥沃的
+fertilise|v.|=fertileze 施肥于
+---
+solar|adj.|太阳的；日光的
+lunar|adj.|月亮的；月球的
+calendar|n.|日历；历法
+---
+sunrise|n.|日出
+sunset|n.
+eclipse|n.|日食；月食
+---
+dusk|n.|黄昏
+heaven|n.|天堂；极乐之地
+paradise|n.|天堂；乐园；福地
+---
+sunshine|n.|阳光；日光
+shade|n./v.|阴影部分；背阴处；给...遮挡（光线）
+shadow|n.|影子
+---
+vapour|n.|=vapor 蒸汽；水汽
+evaporate|v.|使蒸发；消失
+circulate|v.|循环；流通；传播
+precipitate|v.|凝结；沉淀|Clouds usually precipitate as rain or snow|precipitation n. 沉淀；降水量；陡然下落
+---
+reservoir|n.|水库；蓄水池
+waterfall|n.
+fountain|n.|喷泉；源泉
+spring|n.|春天；泉水
+dew|n.|露水
+---
+pour|v.|倾泻；倒；倾盆而下
+drain|v./n.|排空；流出；耗竭
+drip|v.|滴出（液体）；滴下
+drown|v.|淹死；浸泡
+---
+blow|v./n.|吹；打击；挫折
+puff|v./n.|喷出；喘息；（吹出的）一股；一缕|Don't puff cigarette smoke in my face
+gush|v./n.|涌出||gush out 涌出；喷出；gush from 从...喷出
+---
+dense|adj.|密集的；稠密的||density n. 密度
+intensity|n.|强度；强烈
+intensive|adj.|加强的；集中的；密集的||intensive care unit ICU
+---
+emerge|v.|浮现；露出；暴露；摆脱出来
+flash|v./n.|||flash through sb.'s mind 闪过某人脑海
+float|v.|
+---
+environment|n.
+surrounding|adj.|周围的；附近的
+condition|n.|条件；情况；状态
+situation|n.
+---
+nature|n.
+natural|adj.
+artificial|adj.|人造的
+synthetic|adj.|人造的；合成的|Nylon is a synthetic material; it is not from nature
+---
+petrol|n.|[英]汽油
+gas|n.|气体；[美]汽油
+gasoline|n.|[美]汽油
+petroleum|n.|石油|Petroleum is an important natural resource|petrology n. 岩石学
 ===
 植物研究
 +++

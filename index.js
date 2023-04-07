@@ -6,7 +6,7 @@ const opts = {
         const category = ref('')
         const wordList = computed(() => {
             let result = structuredClone(vocabulary)    // deep clone
-            const keywordValue = keyword.value.trim()
+            const keywordValue = keyword.value.trim().toLowerCase()
             const categoryValue = category.value
 
             if (categoryValue != '') {
@@ -23,7 +23,7 @@ const opts = {
                     const words = []
                     category.words.forEach(group => {
                         words.push(group.filter(item => {
-                            return item.word.includes(keywordValue)
+                            return item.word.toLowerCase().includes(keywordValue)
                         }))
                     })
                     category.words = words
