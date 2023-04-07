@@ -52,7 +52,7 @@ typhoon|n.|台风
 volcano|n.|火山
 erupt|v.|爆发；喷发；（斑疹等）突然出现
 magma|n.|岩浆
-themodynamic|adj.|热力的；热力学的
+thermodynamic|adj.|热力的；热力学的
 ---
 smog|n.|烟雾；雾霾
 fume|n./v.|（难闻有害的）烟，气体|Petrol fumes from cars are poisoning the atmosphere
