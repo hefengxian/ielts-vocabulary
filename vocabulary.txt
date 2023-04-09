@@ -538,3 +538,25 @@ beak|n.|鸟嘴；喙
 ---
 fin|n.|鳍
 wing|n.|翅膀
+plume|n.|羽毛
+feather|n.|羽毛
+---
+fur|n.|软毛；毛皮
+bristle|n.|鬃毛
+curl|n./v.|卷曲；螺旋状物；（使）卷曲
+---
+insect|n.|昆虫
+worm|n.|蠕虫
+pest|n.|害虫；有害动物
+parasite|n.|寄生虫|The life of hte parasite is maintained by new blood-sucking mosquitoes
+---
+spider|n.|蜘蛛
+butterfly|n.|蝴蝶
+mosquito|n.|蚊子
+cricket|n.|蟋蟀
+---
+penguin|n.|企鹅
+seal|n./v.|海豹；封条；图章；密封|Polar bears set off in search of their favorite meal-seals
+tortoise|n.|龟；陆龟
+turtle|n.|海龟
+whale|n./v.|鲸；捕鲸
