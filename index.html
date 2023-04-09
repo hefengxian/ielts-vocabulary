@@ -33,7 +33,10 @@
                 <input type="text" v-model="keyword" placeholder="Keyword to search">
             </div>
         </div>
-        <div class="main-area">
+        <div
+            v-show="loaded"
+            style="display: none;"
+            class="main-area">
             <table>
                 <!-- <thead>
                     <tr>
@@ -46,7 +49,20 @@
                     </tr>
                 </thead> -->
                 <template v-for="category of wordList">
-                    <tbody class="category-label"><tr><td :colspan="6">{{category.label}}</td></tr></tbody>
+                    <tbody class="category-label">
+                        <tr>
+                            <td :colspan="6">
+                                <div class="category">
+                                    <div class="left">{{category.label}}</div>
+                                    <div class="right">
+                                        <audio controls>
+                                            <source :src="`audio/${category.audio}`" type="audio/mpeg">
+                                        </audio>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
                     <tbody
                         v-for="(wordGroup, i) of category.words"
                         :class="`group-color-${i % 5}`">

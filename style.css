@@ -134,6 +134,22 @@ select {
     padding: 16px 10px;
 }
 
+.category {
+    display: flex;
+    flex-direction: row;
+}
+
+.category .left {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.category .right {
+    justify-items: flex-end;
+    padding-right: 8px;
+}
+
 /* .main-area table td:last-child,
 .main-area table th:last-child {
     border-right: none;

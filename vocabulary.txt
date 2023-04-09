@@ -479,3 +479,62 @@ biologist|n.|生物学家
 zoologist|n.|动物学家
 ecologist|n.|生态学家
 botanist|n.|植物学家
+---
+mammal|n.|哺乳动物
+primate|n.|灵长动物
+vertebrate|n.|脊椎动物
+pretail|n.|爬行动物
+---
+amphibian|n./adj.|两栖动物；两栖的
+carnivore|n.|肉食动物
+herbivore|n.|食草动物
+---
+creature|n.|生物；动物
+wildlife|n.|野生动我
+fauna|n.|（尤指某一地区的）动物群|The park is also home to grizzly bears, and other Rocky Mountain faunas
+flora|n.|（尤指某一地区的）植物群
+species|n.|物种
+---
+flock|n./v.|（羊或鸟）群；聚集|Sheep usually flock togather
+herd|n.|兽群；畜群|The herdsman looks after a herd of animals
+swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群
+throng|n./v.|人群；群集
+crowd|n.|人群；观众；一群人
+---
+beast|n.|野兽；凶残的人；畜生
+brute|n.|粗野的人；残忍的人|We all want punish the brute
+cruel|adj.|残忍的；残暴的
+---
+originate|v.|发源；来自；创始
+derive|v.|得到；（使）源自|I drived a lot of pleasure from meeting new people at college|drive from/be derived from 源自；来自
+stem|v./n.|起源于；来自；茎；梗|Correct decisions stem from correct judgments|stem from 源自；起源于
+---
+ancestor|n.|祖宗；祖先
+descendant|n./v.|后裔；后代；下降的
+offspring|n.|后代；子孙；产物
+subgroup|n.|子群|According to a subgroup analysis, violence produce more violence
+---
+feed|v.|供养；喂养；进食
+breed|v./n.|饲养；繁殖；品种
+interbreed|v.|（使）品种杂交
+---
+hybridize|v.|=hybridise （使）杂交
+proliferate|v.|迅速增殖；剧增
+sterility|n.|不生育|This disease causes sterility in both males and females
+---
+mate|v./n.|交配；配偶
+courtship|n.|求偶
+lay|v.|产；放置；铺设|They lay eggs from the July to the middle of August
+---
+hatch|v./n.|孵化
+brood|n./v.|一窝幼鸟；孵（蛋）|The bird was trying to find food for its brood
+spawn|n./v.|（鱼、蛙的）卵；产卵；引起
+mature|adj./v.|成熟的；成熟|You are a muture man now, you are no longer a boy|immuture adj. 不成熟的，未完全发育的
+---
+skin|n.|皮肤
+claw|n.|爪；钳；鳌；爪状物
+paw|n.|（动物的）脚掌；爪子
+beak|n.|鸟嘴；喙
+---
+fin|n.|鳍
+wing|n.|翅膀
