@@ -691,4 +691,15 @@ shepherd|n.|牧羊人，羊倌|The shepherd set out to look for sheep that had w
 galaxy|n.|星系|The sun is only a very small start in the Galaxy|the Galaxy 银河系
 cosmos|n.|宇宙
 universe|n.|宇宙；万物；世界
-interstella|adj.|星际的|These elements become part of the interstellar gas and dust
+interstellar|adj.|星际的|These elements become part of the interstellar gas and dust
+---
+terrestrial|adj.|地球的；陆地的
+celestial|adj.|天上的
+astronomy|n.|天文学
+astrology|n.|占星术；占星学
+astronaut|n.|宇航员
+---
+comet|n.|彗星
+meteorite|n.|陨石
+crater|n.|（撞击或爆炸形成的）坑
+---
