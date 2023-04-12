@@ -701,5 +701,95 @@ astronaut|n.|宇航员
 ---
 comet|n.|彗星
 meteorite|n.|陨石
-crater|n.|（撞击或爆炸形成的）坑
+crater|n.|（撞击或爆炸形成的）坑|They came to the lip of a dead volcanic crater
 ---
+dust|n.|尘土；灰尘
+ash|n.|灰烬
+envelope|n.|外裹物；外层|The surface of the sun is a glowing gas envelope
+chunk|n.|厚块|My mother bought a chunk of meat|a chunk of 一大块，一厚块
+----
+spacecraft|n.|宇宙飞船
+spaceship|n.|宇宙飞船
+probe|n.|太空探测器；详尽调查|Their probe into the cause of the fire proved futile
+module|n.|模块
+---
+propulsion|n.|推进力|This aircraft works by jet propulsion
+pressure|n.|压力
+dynamics|n.|动力学；动态
+motion|n.|作物；移动
+---
+vent|n./v.|排气口；排放；发泄
+tail|n.|尾部
+curve|n.|曲线；弧线
+---
+exploration|n.|探索
+expedition|n.|远征；探险
+flyby|n.|（航天器对行星或卫星的）飞掠
+---
+observatory|n.|天文台
+telescope|n.|望远镜
+spectacle|n.|壮观的景象；奇观|The sunrise was a splendid spectacle|spectacular adj. 壮观的；壮丽的
+---
+orbit|n.|轨道
+ecliptic|n.|黄道
+diameter|n.|直径
+radius|n.|半径
+---
+substance|n.|物质；实质；要旨
+composition|n.|成分；构成；作品；创作
+compound|n./adj./v.|混合物；化合物。复合的；组合的。混合|English loves compound words: "washing machine" and that sort of thing
+---
+fossil|n.|化石
+sample|n.|样品；样本
+specimen|n.|样品；标本
+---
+particle|n.|颗粒；微粒；极小量
+molecule|n.|分子
+atom|n.|原子
+ion|n.|离子
+electron|n.|电子
+quantum|n.|量子|In this example, we employed the quantum mechanics principle
+---
+liquid|n./adj.|液体；液体的
+fluid|n./adj.|液体；流体。流动的|When you are sick, you should drink plenty of fluids
+solid|n./adj.|固体。固体的；牢固的
+---
+synthesis|v.|=synthesize 合成；综合|Darwinian theory has been synthesised with modern genetics
+formation|n.|形成
+method|n.|方法
+---
+spectrum|n.|光谱；范围
+dimension|n.|维度
+frequency|n.|频率；发生次数
+signal|n.|信号
+antenna|n.|天线
+circuit|n.|线路；电路；巡回|For many years, He was the banana on the cicruit
+---
+refraction|n.|折射
+ultraviolet|n./adj.|紫外辐射。紫外线的
+radioactive|adj.|放射性的
+---
+distinct|adj.|明显的；截然不同的
+discernible|adj.|可辨别的；看得清的|Night fell, but the outline of the factory buildings was still discernible
+invisible|adj.|看不见的
+---
+collision|n.|碰撞事故；冲突
+squash|v./n.|压扁；壁球
+fragment|n./v.|碎片；片段；（使）碎裂
+---
+cataclysmic|adj.|剧变的；灾难的|One can readily trace the disappearance of dinosaurs to a cataclysmic
+overwhelming|adj.|压倒性的
+despair|v./n.|绝望
+desperate|adj.|绝望的；急需要的
+hopeless|adj.|无望的；极差的
+===
+学校教育
++++
+education|n.|
+primary|adj.
+secondary|adj.
+---
+university|n.
+college|n.|学院；大学
+institute|n.|研究所
+academy|n.|专科院校；（美国的）私立学校；研究会；学会|This is an academy of music|academic adj. 学术的；学院的
