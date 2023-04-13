@@ -793,3 +793,101 @@ university|n.
 college|n.|学院；大学
 institute|n.|研究所
 academy|n.|专科院校；（美国的）私立学校；研究会；学会|This is an academy of music|academic adj. 学术的；学院的
+---
+learn|v.|学习；得知
+study|v./n.|学习；研究
+acquire|v.|获得；购得
+knowledge|n.|知识
+---
+expertise|n.|专门技能
+novice|n.|新手|I'm a complete novice at yoga
+recruit|v.|吸收（新成员）|The country's first act would be to recruit for the navy
+---
+literate|adj.|有读写能力的|Over one-quarter of the adult population are not fully literate|literacy n. 读写能力
+illiteracy|n.|文盲
+numerate|adj.|识数的；有计算能力的
+---
+problem|n.|问题；习题
+issue|n./v.|重要问题；发行。公布；发出
+affair|n.|事件；公共事件
+controversial|adj.|有争议的|They tried to stay away from controversial topics at the dinner party
+---
+puzzle|n./v.|难题；谜。使迷惑
+riddle|n.|谜；谜语
+obscure|adj.|难以理解的|Rules for the game are somewhat obscure
+---
+instil|v.|=instill 逐渐灌输|A sense of duty must be instilled in our children
+cram|v.|把...塞进；（为应考）临时死记硬背
+emphasise|v.|=emphasize 强调；着重
+enhance|v.|提高；增强|A good score of IELTS enhance my change of getting the offer
+---
+enable|v.|使能够
+inspire|v.|鼓舞；给...灵感
+motive|n.|动机；缘由
+motivate|v.|激发；驱使
+---
+stimulate|v.|刺激；激励
+spur|v./n.|鞭策；激发。马刺；刺激
+impetus|n.|推动；促进；动量；惯性|The car ran down the bridge under it's own impetus
+---
+indulge|v.|迁就；放任；沉湎；让...享受一下|You can indulge yourself without spending a fortune
+spoil|v.|宠坏；溺爱；破坏；糟蹋
+abuse|v.|滥用；虐待|It's easy to abuse one's powser|alcohol abuse 酗酒
+---
+intelligent|adj.|聪明的
+clever|adj.|聪明的；精明的
+smart|adj.|聪明的；智能的
+all-round|adj.|=all-around 有多方面才能的；全面的|She is an all-round artist
+---
+genius|n.|天才人物；天赋
+elite|n.|精英
+idiot|n.|白痴；傻瓜
+---
+wisdom|n.|智慧；学问
+wit|n.|风趣的人；机智；风趣；智慧|Holmes was a gregarious, a great wit, a man of wide interests
+aptitude|n.|天生的才能；资质|That student has an aptitude for music|apt adj. 恰当的；聪明的
+capable|adj.|有能力的；有才能的|Not everyone is capable of judging fine arts|capability n. 能力。capacity n. 容量。be capable of 能够
+---
+excellent|adj.|杰出的；优秀的|She had a high reputation for her excellent detective novels|excel v. 擅长；突出
+outstanding|adj.|突出的；杰出的
+brilliant|adj.|光辉的；聪明的；（光线等）明亮的
+---
+prestige|n.|威望；声望|These new policies will affect the president's national and international prestige|prestigious adj. 有名望的；享有声望的
+reputation|n.|名誉；声誉
+eminent|adj.|著名的；杰出的|The students are expecting the arrival of an eminent scientist
+notorious|adj.|名声狼藉的|The notorious thief was finally caught and put to prison|notoriety n. 坏名声
+---
+esteem|v.|尊重；尊敬
+respect|n./v.|尊敬；敬重
+diligent|adj.|勤勉的；勤奋的
+painstaking|adj.|极其仔细的；辛苦的|The mastery of a language requires painstaking effort
+---
+skill|n.|技巧
+approac|n./v.|方法。接近
+scheme|n./v.|计划；方案；阴谋。谋划|All the scheme an intrigues are doomed to failure
+---
+headmaster|n.|[英]男校长
+principal|n./adj.|[美]（中小学）校长；[英]大学校长；学院院长。首要的|He is going to resign from the position of principal
+dean|n.|（大学的）学院院长；系主任
+faculty|n.|（大学的）系、院；全体教员
+---
+professor|n.|教授
+scholar|n.|学者
+scientist|n.|科学家
+mentor|n.|导师；顾问
+tutor|n.|家庭教师；（英国大学或者学院的）导师
+---
+lecturer|n.|讲师
+assistant|n.|助理；助手
+candidate|n.|候选人；求职者；考生
+---
+degree|n.|学位；程度|He left without completing his degree|to a certain degree 在某种程度上
+qualify|v.|（使）有资格、有权
+certify|v.|证明；颁发专业合格证书
+license|n.|=licence 执照；许可证
+permit|n.|许可证
+---
+diploma|n.|毕业文凭
+diplomat|n.|外交官；善于交际的人
+ambassador|n.|大使|He was appointed ambassador to France|embassy n. 大使馆
+---
