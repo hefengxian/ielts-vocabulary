@@ -574,7 +574,7 @@ bear|n.|熊
 wolf|n.|狼
 dragon|n.|龙；悍妇|Dragons are describes as monsters in most western countries
 fox|n.|狐狸🦊；狡猾的人
---
+---
 cub|n.|幼兽|The cub licked the milk from its mother's breast
 calf|n.|幼兽；小牛🐂|Did you see the cow with her calf
 pup|n.|幼小动物|I'll get you an Alsatian pup for Christmas|puppy n. 幼犬
