@@ -707,7 +707,7 @@ dust|n.|尘土；灰尘
 ash|n.|灰烬
 envelope|n.|外裹物；外层|The surface of the sun is a glowing gas envelope
 chunk|n.|厚块|My mother bought a chunk of meat|a chunk of 一大块，一厚块
-----
+---
 spacecraft|n.|宇宙飞船
 spaceship|n.|宇宙飞船
 probe|n.|太空探测器；详尽调查|Their probe into the cause of the fire proved futile
