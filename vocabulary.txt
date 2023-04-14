@@ -891,3 +891,58 @@ diploma|n.|毕业文凭
 diplomat|n.|外交官；善于交际的人
 ambassador|n.|大使|He was appointed ambassador to France|embassy n. 大使馆
 ---
+pupil|n.|小学生；瞳孔|As a girl, she had been a model pupil
+graduate|n./v.|毕业生；毕业
+ceremony|n.|典礼；礼节
+---
+bachelor|n.|学士；单身汉
+master|n./v.|硕士；大师。精通；控制
+doctor|n.|博士；医生
+---
+fresher|n.|[英]（大学）一年级新生
+sophomore|n.|[美]（大学或高中）二年级学士
+junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少年的；级别（或地位）较低的
+senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的
+alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are persent at my birthday party
+---
+compus|n.|（大专院校的）校园
+orientation|n.|迎新会；方向
+platform|n.|平台；讲台
+coed|adj./n.|=co-educational 男女同校的。（男女通宵的大学生中的）女生|A nationwide research is under way for typical coeds
+---
+register|v./n.|登记；注册。登记表；注册簿
+roster|n.|花名册；登记表；执勤表|I am on the roster for tomorrow night
+enrol|v.|=enroll 登记；注册；加入
+matriculation|n.|注册入大学
+---
+accommodation|n.|住处；食宿招待
+dorm|n.|宿舍
+dining hall|n.|食堂
+canteen|n.|水壶；[英]食堂
+---
+laboratory|n.|=lab 实验室；研究室
+experiment|n.|实验；试验
+data|n.|[datum 的复数形式]数据
+quantity|n.|数量
+quality|n.|质量
+---
+library|n.|图书馆；个人收藏
+literature|n.|文学；文学作品；文献
+article|n.|文章
+author|n.|作者；作家
+---
+tale|n.|故事；传说
+fiction|n.|小说；虚构；杜撰
+story|n.|故事；小说；（尤指口头的）叙述
+diary|n.|日记；日记簿
+---
+poetry|n.|诗
+magazine|n.|杂志；期刊；弹夹
+journal|n.|日报；周报；（尤指专门科学的）杂志；日志
+coverage|n.|新闻报道；覆盖范围
+---
+bibliography|n.|参考书目
+encyclopedia|n.|=encyclopaedia 百科全书
+biography|n.|传记
+documentary|n./adj.|纪录片；记录的
+series|n.|连续的；一系列；系列节目
