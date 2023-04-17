@@ -908,7 +908,7 @@ alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are p
 compus|n.|（大专院校的）校园
 orientation|n.|迎新会；方向
 platform|n.|平台；讲台
-coed|adj./n.|=co-educational 男女同校的。（男女通宵的大学生中的）女生|A nationwide research is under way for typical coeds
+coed|adj./n.|=co-educational 男女同校的。（男女同校的大学生中的）女生|A nationwide research is under way for typical coeds
 ---
 register|v./n.|登记；注册。登记表；注册簿
 roster|n.|花名册；登记表；执勤表|I am on the roster for tomorrow night
@@ -946,3 +946,31 @@ encyclopedia|n.|=encyclopaedia 百科全书
 biography|n.|传记
 documentary|n./adj.|纪录片；记录的
 series|n.|连续的；一系列；系列节目
+---
+record|n.|记录；履历
+file|n./v.|档案；把...归档
+profile|n.|概述；人物简介；侧面轮廓
+---
+draft|n.|草稿；汇票；起草
+sketch|n./v.|概略；概述
+brochure|n.|小册子
+manual|n.|使用手册；指南；手工的
+---
+frame|n.|框架；眼镜框；构架
+index|n./v.|指数；索引；为...编索引
+catalogue|n.|=catalog 目录
+category|n.|种类；类别；范畴
+---
+inventory|n.|库存；详细目录
+content|n./adj.|内容；目录；含量。满足的
+context|n.|上下文；语境；背景
+list|n./v.|一览表；目录。列举；把...列表
+---
+chapter|n.|（书的）章；（人生或历史的）重要时刻
+volume|n.|卷；体积；容积；音量
+reel|n.|卷轴；卷筒；一卷胶卷
+---
+subject|n.|科目；主题；实验对象
+object|n./v.|物体；目标。反对
+major|n./v./adj.|[美]主修科目；专业。主修。主要的
+minor|n./adj.|[美]辅修科目。不严重的|My major is English, but I also have a major minor in history.
