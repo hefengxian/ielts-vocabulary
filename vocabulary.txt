@@ -1202,3 +1202,22 @@ hypothesis|n.|假说；假设
 postulate|v./n.|假定；假设
 speculate|v.|推测
 predict|v.|预测
+---
+perceive|v.|感知；察觉；意识到|I perceived that it was not possible to make her change her mind
+detect|v.|察觉；发觉；侦查出
+discern|v.|察觉出；分辨出
+recognise|v.|=recognize 认识；辨认出
+conscious|adj.|意识到的；有知觉的
+---
+reckon|v.|估计；期望；认为
+deem|v.|认为；相信
+imply|v.|暗指；意味着
+deliberate|v./adj.|深思熟虑；仔细考虑。审慎的
+---
+represent|v.|代表；象征
+insist|v.|坚持；坚决认为（主张或要求）
+persist|v.|坚持不懈；持续存在
+---
+understand|v.|懂得；理解
+comprehend|v.|理解；领悟
+analyse|v.|=analyze 分析
