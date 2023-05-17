@@ -973,4 +973,251 @@ reel|n.|卷轴；卷筒；一卷胶卷
 subject|n.|科目；主题；实验对象
 object|n./v.|物体；目标。反对
 major|n./v./adj.|[美]主修科目；专业。主修。主要的
-minor|n./adj.|[美]辅修科目。不严重的|My major is English, but I also have a major minor in history.
+minor|n./adj.|[美]辅修科目。不严重的|My major is English, but I also have a minor in history.
+---
+sociology|n.|社会学|A few years ago, sociology was the most popular subject for undergraduates
+politics|n.|政治学；政治；政治事务
+economics|n.|经济学
+---
+marketing|n.|市场营销
+accounting|n.|会计
+audit|n./v.|审计。旁听；审计
+statistics|n.|统计学
+---
+psychology|n.|心理学；心理特征
+philosophy|n.|哲学
+logic|n.|逻辑学；逻辑
+---
+biology|n.|生物学；生命机理
+physics|n.|物理学
+chemistry|n.|化学
+---
+agriculture|n.|农业；农学
+logistics|n.|物流；后勤
+geography|n.|地理学；地形；地势
+history|n.|历史；历史学
+---
+engineering|n.|工程；工程学
+mechanics|n.|力学；机械学
+electronics|n.|电子学；电子器件|That country wants to increase tariffs on items such as electronics|electron n. 电子。electronic adj. 电子的；电子学的。electrical adj. 电的；电气科学的。electricity n. 电；电流；电学
+---
+maths|n.|=mathematics 数学
+arithmetic|n.|算数
+geometry|n.|几何学
+algebra|n.|代数
+calculus|n.|微积分；结实
+---
+plus|prep./adj.|加上。正数的；在零以上的
+sum|n.|总和；总数；金额
+total|adj./n.|总的；全部的。总数
+---
+merger|n.|合并；并归
+equation|n.|相等；平衡；综合体；方程式；等式
+identical|adj.|同一的|This is the identical hotel we stayed at last year
+---
+minus|adj./prep.|负的；零以下的；减去
+substract|v.|减去；减
+multiply|v.|乘；使相乘；使成倍增加；繁殖
+---
+divide|v.|除以；除
+dividend|n.|被除数
+remainder|n.|余数；剩余部分
+rational|n./adj.|有理数；（数、式等）有理的
+---
+parameter|n.|参数；起限定作用的因素
+variable|n./adj.|变量；可变因素。易变的
+even|adj./adv.|均匀的；偶数的；相等的。甚至
+odd|adj.|奇数的；古怪的
+mean|n./adj.|平均数；平均值。平均的|The professor asked the students to take 200 values and calculate the mean|mean distance 平均距离
+---
+double|adj./n./v.|两倍的。两倍数；两倍量。使加倍
+triple|adj./n./v|三倍的；三重的。三倍数；三包两。使增至三倍
+quadruple|adj./n./v.|四倍的。四倍
+multiple|n./adj.|倍数。多样的，数量多的
+---
+maximum|n.|最大值；最大限度
+minimum|n.|最小值；最小限度
+approximately|adv.|大约
+---
+chart|n.|图；图表；海图
+graph|n.|图表；图
+diagram|n.|图表；示意图；图解
+table|n.|表格；桌子
+matrix|n.|矩阵；铸模
+---
+rectangle|n.|长方形；矩形
+cube|n.|立方体；立方；三次幂；立方的东西
+angle|n.|角度；脚
+triangle|n.|三角形；三角关系
+diagonal|adj./n.|斜纹的；对角线的。对角线；斜纹织物
+straight|adj./adv.|直的；笔直地；直接
+---
+circle|n.|圆
+round|adj./n./adv.|圆的。绕圈；一轮。环绕
+dot|n./v.|点。在...打点
+sphere|n.|球体；球状物；范围；领域|We move in different social sphere
+cone|n.|圆锥体；锥形物|The police have sectioned off the road with traffic cones
+---
+extent|n.|广度；范围；程度|No one cares about the extent of his debts|to some extent 在某种程度上
+width|n.|宽度
+length|n.|长度
+---
+decimal|adj./n.|小数的；十进制的。小数
+percent|n.|=per cent 百分之...
+proportion|n.|比例
+---
+rate|n.|比率；率；速度
+ratio|n.|比|The ratio of 3 to 9 is the same as that 9 to 27|in direct ratio 按正比例。in inverse ratio 按反比例
+fraction|n.|分数；小部分；片段|She spends only a fraction of her earnings on clothes
+---
+scale|n./v.|刻度；规模。攀登 scales 天平；鳞
+ounce|n.|盎司；少量
+density|n.|密度；浓度
+---
+Fahrenheit|adj.|华氏温标的
+mercury|n.|水银；水星
+battery|n.|电池；（物品的）一组
+volt|n.|伏特
+---
+radiate|v.|辐射；发散；从中心向四周散开
+emit|v.|散发 (光、热、气等)；发出（声音）|The tail exhaust pipe of the car emitted poisonous smoke
+transparent|adj.|透明的；易看穿的
+hollow|adj.|中空的；空心的
+---
+ozone|n.|臭氧
+gravity|n.|地球引力；重力
+friction|n.|摩擦力；摩擦；不和；矛盾
+eccentric|adj.|不同心圆的；古怪的|The old lady has some eccentric habits
+displace|v.|移动...的位置；取代；代替|A bone in his knee was displaced when he crashed against another player
+---
+boil|v./n.|煮沸。沸点|The watched pot never boils 性急烧水不沸|boil down to 归结为。on the boil 在沸腾
+melt|v.|（使）融/熔化
+dissolve|v.|（使）溶解；解散
+---
+rust|v./n.|（使）生锈。锈；铁锈|If you leave your metal tools outside in the rain, they will rust|rusty adj. 生锈的
+ferment|v./n.|（使）发酵；骚动。酶；发酵；动乱|The whole country was in a state of ferment|yeast n. 酵母；酵母菌
+dilute|v./adj.|冲淡；稀释。稀释了的；减弱了的|The nurse diluted the drug with sailine water
+acid|n./adj.|酸。酸的；讽刺的；尖刻的
+noxious|adj.|有害的|Increasing tax on petrol would encourage people to drive cars with fewer emissions
+---
+static|adj.|静态的
+inert|adj.|无生气的；惰性的；不活泼
+inherent|adj.|内在的；固有的|Polarity is inherent in a magent|be inherent in 为...所固有
+---
+formula|n.|公式；方程式；原则；配方；分子式
+component|n.|成分；组成
+compose|v.|组成；构成；创作；写|Water is composed of hydrogen and oxygen|composer n. 作曲家。be composed of 由...组成
+mixture|n.|混合物
+blend|n./v.|混合；（使）交融。混合物
+---
+theory|n.|理论；学说
+empirical|adj.|经验主义的；以实验为依据的|His thesis is not very convincing for lack of empirical evidence
+pratical|adj.|实际的；有用的；务实的；心灵手巧的
+---
+doctrine|n.|学说；教义；信条
+principle|n.|原则；（科学）原理
+discipline|n.|纪律；训练
+---
+term|n.|期限；术语；[英]学期
+semester|n.|学期
+timetable|n.|时间表；课程表
+schedule|n.|日程安排；[美]时刻表
+deadline|n.|截止日期
+---
+course|n.|课程
+lesson|n.|一堂课；课程；教训
+curriculum|n.|课程；全部课程|The staff should work togather to revise the school curriculum|extra-curriculum 课外的。curriculum vitae 履历 CV
+seminar|n.|研讨会；讨论课
+forum|n.|论坛；讨论会；公开讨论广场
+syllabus|n.|教学大纲
+system|n.|系统；体系；制度
+---
+rudimentary|adj.|基本的；粗浅的
+basic|adj.|基本的；基础的
+fundamental|adj.|基础的；基本的；根本的
+---
+elementary|adj.|基本的；初级的
+profound|adj.|深远的；见解深刻的
+superficial|adj.|表面的；外表的；肤浅的
+surface|n.|表面；地面；水面
+---
+compulsory|adj.|强制的
+prerequisite|n./adj.|必备条件。必备的
+selective|adj.|选择性的
+elective|adj.|选择性的
+---
+assignment|n.|作业；任务
+submit|v.|提交；服从||submit to 服从于；屈从于。submit sth. to 把某物提交给
+preview|n./v.|预习
+review|n./v.|回顾；复习
+---
+revise|v.|修订；修改
+inspect|v.|检查；检阅；视察
+consult|v.|请教；查阅
+---
+skim|v.|掠过；擦过；略读
+scan|v./n.|细看；浏览；扫描
+scrutinise|v.|=scrutinize 仔细检查|scrutiny n. 详细审查
+recite|v.|背诵；朗诵
+dictate|v.|让（某人）听写；命令；强行规定|The English teacher dictates to the class every other week|dication n. 听写；口述
+---
+examination|n.|=exam 考试；抽查
+test|v./n.|测试；检验
+quiz|n.|小测验
+presentation|n.|陈述；表演；演出
+---
+plagiarise|v.|=plagiarize 抄袭
+copy|n./v.|复制品。抄写；复制
+print|v./n.|打印。印刷品；照片
+---
+thesis|n.|论文
+essay|n.|短文；小品文
+paper|n.|论文；纸
+dissertation|n.|专题论文；（尤指）学位论文
+project|n.|（大中学生的）专题研究；项目；方案
+---
+heading|n.|标题；主题
+outset|n.|开端；开始
+outline|n.|概要；轮廓
+---
+point|n.|点；要点
+gist|n.|主旨；要点|He cannot understand the gist of their argument
+opinion|n.|看法；评价
+introduce|v.|介绍；引进
+---
+reference|n.|参考；推荐函；提及；涉及
+cite|v.|引用
+elicit|v.|引出；探出；套出
+quote|v.|引用；引述；报（价）
+---
+extract|n.|摘录
+abstract|n./adj./v.|摘要。抽象的。提取；把...抽象出
+summary|n.|摘要；概要
+---
+assume|v.|假定；设想；承担（责任）；取得（权力）||assumption n. 假设；假想
+presume|v.|假定；假设；料想
+suppose|v.|假定；认为|Let us suppose another planet with conditions similar to those on the earth|be suppose to do sth. 应该做某事
+---
+hypothesis|n.|假说；假设
+postulate|v./n.|假定；假设
+speculate|v.|推测
+predict|v.|预测
+---
+perceive|v.|感知；察觉；意识到|I perceived that it was not possible to make her change her mind
+detect|v.|察觉；发觉；侦查出
+discern|v.|察觉出；分辨出
+recognise|v.|=recognize 认识；辨认出
+conscious|adj.|意识到的；有知觉的
+---
+reckon|v.|估计；期望；认为
+deem|v.|认为；相信
+imply|v.|暗指；意味着
+deliberate|v./adj.|深思熟虑；仔细考虑。审慎的
+---
+represent|v.|代表；象征
+insist|v.|坚持；坚决认为（主张或要求）
+persist|v.|坚持不懈；持续存在
+---
+understand|v.|懂得；理解
+comprehend|v.|理解；领悟
+analyse|v.|=analyze 分析
