@@ -834,7 +834,7 @@ indulge|v.|迁就；放任；沉湎；让...享受一下|You can indulge yoursel
 spoil|v.|宠坏；溺爱；破坏；糟蹋
 abuse|v.|滥用；虐待|It's easy to abuse one's powser|alcohol abuse 酗酒
 ---
-intelligent|adj.|聪明的
+intelligent|adj.|聪明的
 clever|adj.|聪明的；精明的
 smart|adj.|聪明的；智能的
 all-round|adj.|=all-around 有多方面才能的；全面的|She is an all-round artist
@@ -1216,8 +1216,31 @@ deliberate|v./adj.|深思熟虑；仔细考虑。审慎的
 ---
 represent|v.|代表；象征
 insist|v.|坚持；坚决认为（主张或要求）
-persist|v.|坚持不懈；持续存在
+persist|v.|坚持不懈；持续存在
 ---
 understand|v.|懂得；理解
 comprehend|v.|理解；领悟
 analyse|v.|=analyze 分析
+---
+diagnose|v.|判断；诊断
+infer|v.|推断；推理
+deduce|v.|演绎；推论
+conclude|v.|推断出；得出结论；（使）结束
+---
+analogy|n.|类比；类推||analogous adj. 类似的。by analogy 通过类推法
+compare|v.|比较；把...比作；比得上
+contrast|n.|对比；明显的差异||by contrast/in contrast 与之相比，相比之下。in contrast to 与...截然不同
+---
+overlap|v.|与...复叠；（与...）部分相同
+contradiction|n.|矛盾；不一致；反驳
+disagree|v.|有分歧；不同意
+differ|v.|不同、相异||differ from 与...不同
+---
+diverse|adj.|不一样的；多种多样的
+nuance|n.|细微差别
+inductive|adj.|归纳的；诱导的
+---
+detail|n.|细节；（画等的）细节||detailed adj. 详细的。in detail 详细地
+thorough|adj.|彻底的；详尽的
+example|n.|例子；榜样
+instance|n.|实例；情况；场合
