@@ -1243,4 +1243,60 @@ inductive|adj.|归纳的；诱导的
 detail|n.|细节；（画等的）细节||detailed adj. 详细的。in detail 详细地
 thorough|adj.|彻底的；详尽的
 example|n.|例子；榜样
-instance|n.|实例；情况；场合
+instance|n.|实例；情况；场合||for instance 例如
+---
+confirm|v.|证实；确保；巩固
+demonstrate|v.|示范；演示；证明||demonstration n. 示范；游行示威。demonstrative adj. 情感外露的；喜怒形于色的。demonstrator n. 示范者；游行示威者
+illustrate|v.|（用图等）说明；给（书）加插图（或图表）
+manifest|v.|显示；表明
+prove|v.|证明；结果是
+---
+determine|v.|决定；下定决心；查明||determinant n. 决定因素。 determined adj. 下定决心的。determine to do sth. 决心做某事。determine beforehand 事先决定
+decide|v.|决定||decision n. 决定；抉择
+resolve|v.|决心；决定；（使）分解为；解决||resolution n. 决心；分辨率。solution n. 解决方案；溶液
+---
+survey|n./v.|民意调查；对...进行民意调查||动词的时候重音在中间
+research|n.|调查；探索
+observe|v.|观察；观测；注意到
+---
+inquire|v.|=enquire 询问；调查||inquiry n. 询问；调查。 inquire into 调查
+query|n./v.|疑问；询问；怀疑；询问
+questionnaire|n.|调查表；调查问卷
+---
+achieve|v.|实现；到达||achievement n. 成就；完成；达到。achieve success 取得成功
+accomplish|v.|达到（目的）；完成
+attain|v.|获得；达到||attainment n. 达到；成就。attain one's goal 达到某人目标
+---
+credit|n.|赊购；学分；信任
+score|n.|得分、成绩
+mark|n./v.|分数；标记；标志着；给...打分；在...上做记号
+grade|v./n.|给...分等级：等级；成绩等级
+---
+rank|n./v.|等级；排；列；给...评级；位列||ranking n. 排名（表）；等级
+row|n.|一排；一行
+queue|n./v.|行列；队列；排队等候
+---
+grant|v.|授予；准予；承认||take sth. for granted 认为某事是理所应当的
+praise|n./v.|赞美；赞扬||full of praise 赞不绝口 praise sb. for sth. 为某事赞扬某人
+appreciate|v.|赏识；感激；意识到
+---
+feedback|n.|反馈；反应
+underestimate|v.|低估||estimate v. 估算；n. 估算；评价
+overestimate|v.|高估
+---
+apply|v.|申请
+fellowship|n.|研究生奖学金
+scholarship|n.|奖学金；学问；学识
+reward|n./v.|报答；赏金；报答||reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
+---
+award|n.|奖；奖品
+prize|n./v.|奖赏；珍视
+fee|n.|酬金；费用
+===
+科技发明
++++
+technology|n.|技术||technological adj. 技术上的；advanced technology 先进的技术
+technique|n.|技巧；技术||technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师
+polytechnic|adj./n.|有关多种工艺的；理工学院
+engineer|n.|工程师；技师
+mechanic|n.|技工；机械师；机修工
