@@ -1300,3 +1300,128 @@ technique|n.|技巧；技术||technical adj. 技术的；技能的；工艺的�
 polytechnic|adj./n.|有关多种工艺的；理工学院
 engineer|n.|工程师；技师
 mechanic|n.|技工；机械师；机修工
+---
+advance|n./v.|发展；前进
+innovate|v.|创新；改革
+breakthrough|n.|突破
+---
+gizmo|n.|小装置
+patent|n./v.|专利；专利权；得到...的专利权；给...专利证
+devise|v.|设计；发明||device n. 装置；设备
+discover|v.|发现
+---
+disclose|v.|揭露；透露
+reveal|v.|展现；显示；透露
+uncover|v.|揭露；发现
+expose|v.|使暴露；揭发；使曝光
+---
+domain|n.|（活动、学问等的）领域；领土；领地
+field|n.|领域
+realm|n.|领域
+foundation|n.|基础；地基；基金会
+---
+specialise|v.|=specialze 专攻||specialise in 专攻；专门研究；专门经营
+absorb|v.|理解；掌握
+concentrate|v.|（集中）心思；（使）浓缩||concentration n. 专心；浓度。concentrate on 专心于
+focus|v./n.|集中于；焦点
+utilise|v.|=utilize 利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilisation=utilization n. 利用；使用
+usage|n.|使用；用法
+tester|n.|测试员；测试仪
+apply|v.|应用；适用||apply to 适用于。apply A to B 把 A 应用于 B
+---
+device|n.|装置；设备；手段；策略
+appliance|n.|应用；（家用）器具
+facility|n.|设备；便利
+equipment|n.|设备
+---
+instrument|n.|仪器；工具；乐器
+tool|n.|工具
+gauge|n./v.|测量仪器；测量；判断
+measure|v./n.|测量；衡量；措施||measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施
+calculate|v.|计算；考虑；打算||calculation n. 计算。calculator n. 计算器
+compute|n.|计算；估计
+count|v.|计算||counter n. 柜台；计数器
+estimate|n./v.|估计；估价；评价
+assess|v.|评估；估算
+evaluate|v.|评价；评估
+---
+accessory|n.|附件；配件
+byproduct|n.|副产品||bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号
+auxiliary|adj.|辅助的；协助的；备用的
+versatile|adj.|多功能的；多用途的
+---
+add|v.|添加；附加
+accumulate|v.|累积；（数额）不断增加
+assemble|v.|集合；聚集
+---
+gather|v.|收集；采集
+attach|v.|使依附；附加；缚；系；贴||attachment n. 附件；附属物。attach importance to 重视
+belong|v.|应在（某处）；适合（某种情形）||belong to 属于
+---
+optics|n.|光学
+microscope|n.|显微镜||microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物
+lens|n.|镜头；透镜
+---
+radar|n.|雷达
+echo|n./v.|回声；发回声；模仿；重复
+sensor|n.|传感器
+---
+multimedia|n.|多媒体
+network|n.|网络
+browser|n.|浏览器
+dial|v.|拨（电话号码）
+---
+microcomputer|n.|微型计算机
+laptop|n.|笔记本电脑
+software|n.|软件
+---
+keyboard|n.|键盘
+screen|n.|屏幕
+loudspeaker|n.|扬声器；喇叭
+---
+microphone|n.|麦克风；话筒
+cassette|n.|盒式磁带；底片盒
+tape|n.|磁带；录音带；胶带
+---
+binary|adj.|二进制的；二元的
+digital|adj.|数字的
+wireless|adj.|无线的
+high-definition|adj.|高分辨率的
+---
+audio|adj.|声音的
+vision|n.|视觉；视力
+fantasy|n.|幻想|He is unable to divorce fantasy from reality|fantastic adj. 奇异的；奇妙的
+science fiction|n.|=sci-fi 科幻作品
+---
+pump|n./v.|泵；（用泵）抽
+generator|n.|发电机
+gear|n./v.|齿轮；传动装置；使适合|Education should be geared to children's needs|in high gear 以高速档；高速地。gear up 换高速档；促进
+pivot|n.|枢轴；支点；中心；重点|The mother is often the pivot of family life
+---
+hydraulic|adj.|水力的；液压的
+drainage|n.|排水系统；排水
+sewage|n.|（下水道的）污水
+ventilation|n.|通风设备；通风
+---
+compress|v.|压缩；压紧
+condense|v.|减缩；精简；（使气体）凝结|A long story may be condensed into a few sentences
+refine|v.|精炼；提纯
+simplify|v.|简化；精简||simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅
+---
+purify|v.|净化；使纯净
+filter|v./n.|过滤；（光或声音）透过；过滤器||filter through （消息等）慢慢传开；走漏
+distil|v.|=distill 蒸馏；提取...的精华
+mode|n.|模式；方式
+mould|v./n.|=mold 浇铸；塑造；模子
+prototype|n.|原型；雏形
+---
+framework|n.|框架；体系；结构
+aspect|n.|（问题、事务的）方面
+phase|n.|阶段；时期|The first phase of the project has been completed
+---
+operate|v.|操作；运营；做手术||operation n. 操作；企业；手术
+facilitate|v.|使便利；促进|Many modern inventions facilitate housework
+transform|v.|使改变形态；使改观||transformation n. 变化；转变
+convert|v./n.|（使）转变、改变（信仰、观点等）；皈依者||conversion n. 转变；换算。convert defeat into victory 转败为胜
+alter|v.|变更；改变||alternative adj. 可供选择的。an alter ego 知己；个性的另一面
+shift|v./n.|转移；变换；轮班|The wind shifted to the north|the day shift 白班。the night shift 晚班
