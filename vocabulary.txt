@@ -1425,3 +1425,59 @@ transform|v.|使改变形态；使改观||transformation n. 变化；转变
 convert|v./n.|（使）转变、改变（信仰、观点等）；皈依者||conversion n. 转变；换算。convert defeat into victory 转败为胜
 alter|v.|变更；改变||alternative adj. 可供选择的。an alter ego 知己；个性的另一面
 shift|v./n.|转移；变换；轮班|The wind shifted to the north|the day shift 白班。the night shift 晚班
+---
+turn|v./n.|转移；转变；（一次轮到的）机会||turning n. 旋转；转弯处
+adapt|v.|适应；改编||adaptation n. 适应。adapt to sth. 适应某事
+adjust|v.|调节；改变（行为或观点）以适应||adjustment n. 调整；适应。 adjust to 适应
+---
+pinpoint|v./n.|精确指明...位置；针尖；极小的事物
+accurate|adj.|准确的；正确无误的
+precise|adj.|精确的；准确的；一丝不苟的|precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻
+correct|adj.|正确的||correction n. 改正。incorrect adj. 不正确的；错误的
+---
+error|n.|错误；过失
+mistake|n./v.|错误；误解
+flaw|n.|缺陷；错误
+wrong|adj./adv.|错误的；错误地||go wrong 出现问题；出差错
+fault|n./v.|缺点；故障；找出缺点||faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
+---
+stumble|v.|犯错误；绊脚；跌跌撞撞的走
+contingency|n.|意外事件；可能发生的事
+circumstance|n.|情况；条件；环境；境遇
+===
+文化历史
++++
+culture|n.|文化；文明；教养
+civilization|n.|=civilization 文明
+renaissance|n.|the Renaissance 文艺复兴时期
+epic|n./adj.|史诗；宏大的
+ideology|n.|意识形态；思想体系
+---
+tradition|n.|传统||traditional adj. 传统的；惯例的。by tradition 根据传说；依照传说
+convention|n.|惯例；大型会议||conventional adj. 传统的；惯例的
+custom|n.|习俗；（个人的）习惯||customs n. 海关；关税
+---
+feudalism|n.|封建主义；封建制度|Feudalism was not abolished in England util 1660|feudal adj. 封建的
+slavery|n.|奴隶制
+ethical|adj.|伦理的；道德的
+moral|adj./n.|道德上的；有道德的；morals 道德||immoral adj. 不道德的。moral principles 道德准则。moral standards 道德水准
+---
+tribe|n.|部落
+aboriginal|n./adj.|Aboriginal 澳大利亚土人；本土原有的；土著的||original adj. 原本的；最初的。origin n. 起源
+inhabitant|n.|居民||inhabit v. 居住于；栖息于
+native|adj./n.|本土的；本地人
+local|adj./n.|当地的；本地人
+---
+exotic|adj.|外来的；异国情调的
+foreigner|n.|外国人
+alien|n./adj.|外侨；外星人；外国的；陌生的||alienate v. 使疏远；使不友好；离间。an alien culture 异域文化
+anthropologist|n.|人类学家||anthropology n. 人类学
+humanitarian|n./adj.|人道主义者；人道主义的；博爱的
+---
+heritage|n.|（国家的）遗产
+inherit|v.|继承（财产等）；经遗传获得||inheritance n. 继承；遗产
+antique|n./adj.|古董；古董的
+---
+archaeology|n.|考古学||archaeological adj. 考古学的；archaeologist n. 考古学家
+excavate|v.|发掘；挖掘||excavation n. 挖掘；发掘
+museum|n.|博物馆
