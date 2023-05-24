@@ -1481,3 +1481,91 @@ antique|n./adj.|古董；古董的
 archaeology|n.|考古学||archaeological adj. 考古学的；archaeologist n. 考古学家
 excavate|v.|发掘；挖掘||excavation n. 挖掘；发掘
 museum|n.|博物馆
+---
+pottery|n.|陶瓷
+engrave|v.|在...上雕刻
+decorate|v.|装饰
+---
+religion|n.|宗教；宗教信仰||religious adj. 宗教的
+ritual|n.|仪式
+etiquette|n.|礼仪；礼节
+---
+belief|n.|信念；信仰
+soul|n.|灵魂；心灵；精神
+spirit|n.|精神；心灵
+---
+sacred|adj.|神圣的；宗教的
+hallowed|adj.|神圣的；收尊崇的
+holy|adj.|神圣的；圣洁的；虔诚的
+---
+Pope|n.|教皇
+bishop|n.|主教
+missionary|n.|传教士
+priest|n.|牧师；神父；教士
+---
+Bible|n.|（基督教）圣经
+church|n.|教堂
+cathedral|n.|大教堂
+choir|n.|唱诗班
+---
+monk|n.|僧侣
+temple|n.|师院；庙宇
+pagoda|n.|佛塔
+---
+empire|n.|帝国
+imperial|adj.|帝国的
+royal|adj.|皇家的；高贵的
+dynasty|n.|朝代
+chronology|n.|年代学；年表；事件发生的顺序表
+---
+emperor|n.|皇帝
+king|n.|国王
+queen|n.|王后；女王
+---
+prince|n.|王子；亲王
+princess|n.|公主；王妃
+majesty|n.|威严；壮观；陛下||majestic adj. 宏伟的；庄严的
+---
+nobility|n.|高尚的品质；贵族
+lord|n.|（英国）贵族；Lord 阁下；大人；the Lord 上帝
+knight|n./v.|骑士；封（某人）为爵士
+guardian|n./adj.|保卫者；监护人；守护的||guard n. 守卫 v. 保护
+---
+nostalgia|n.|思乡之情；怀旧之情
+homesick|adj.|思乡的||homesickness n. 思乡之情
+---
+celebrity|n.|名人；名誉
+status|n.|地位；身份||social status 社会地位
+background|n.|背景；（个人出身、受教育）经历
+experience|n.|经验；（一次）经历、体验||experienced adj. 经验丰富的
+---
+anecdote|n.|轶事；奇闻
+accident|n.|事故；意外；偶然事件||accidental adj. 意外的；偶然的；附属的。by accident 偶然。 an aviation accident 空难
+incident|n.|（尤指不寻常的、重要的或暴力的）事件；（两国之间的）冲突
+---
+thrive|v.|繁荣；兴旺发达；茁壮成长
+prosperity|n.|繁荣；兴旺||prosper v. 成功；繁荣。prosperous adj. 繁荣的
+setback|n.|挫折；阻碍
+adversity|n.|逆境
+===
+语言演化
++++
+language|n.|语言
+symbol|n.|象征；符号；记号||symbolise=symbolize v. 象征
+sign|n./v.|符号；征兆；迹象；手势；签（名）
+gesture|n.|手势；姿势
+handwriting|n.|笔记；书写
+---
+pictograph|n.|象形文字
+wedge|n.|楔子；楔形物；楔形文字
+knot|n.|（绳、线的）结；（树枝上的）节子
+---
+linguistics|n.|语言学
+semantic|adj.|语义的
+syntax|n.|句法
+grammar|n.|语法；语法书
+---
+phonetics|n.|语音学
+pronounce|v.|发...的音；宣布||pronunciation n. 发音 pronounced adj. 显著的；表达明确的
+intonation|n.|语调
+inflection|n.|语调的抑扬变化
