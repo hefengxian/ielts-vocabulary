@@ -1569,3 +1569,70 @@ phonetics|n.|语音学
 pronounce|v.|发...的音；宣布||pronunciation n. 发音 pronounced adj. 显著的；表达明确的
 intonation|n.|语调
 inflection|n.|语调的抑扬变化
+---
+dialect|n.|方言；地方话
+accent|n.|重音；口音；读音符号
+utterance|n.|说话；言论
+oral|adj.|口头的
+verbal|adj.|口头的；言语的
+---
+syllable|n.|音节
+phoneme|n.|音位
+vowel|n.|元音
+consonent|n.|辅音
+---
+alphabet|n.|字母表；（一种语言的）全部字母
+logogram|n.|词符；缩记符
+vocabulary|n.|词汇
+dictionary|n.|词典；字典
+---
+idiom|n.|习语
+phrase|n.|短语；习语
+clause|n.|从句；分句；条款
+expression|n.|词语；表达；表情
+tense|n./adj.|时态；紧张的
+---
+root|n.|根；词根
+prefix|n.|前置代号；词首；前缀
+suffix|n.|后缀
+---
+abbreviation|n.|缩写形式
+synonym|n.|同义词
+antonym|n.|反义词
+---
+noun|n.|名词
+singular|n./adj.|单数；非凡的；单数的
+plural|n./adj.|复数；复数的；多元的
+---
+pronoun|n.|代词
+verb|n.|动词
+adjective|n.|形容词
+---
+adverb|n.|副词
+preposition|n.|介词
+conjunction|n.|连词
+---
+consistent|adj.|一致的；（观点或看法）连贯的||inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致
+complicated|adj.|复杂的||complicate v. 使复杂化
+complex|adj.|复杂的
+---
+compile|v.|编撰
+version|n.|版本
+translate|v.|翻译；（使）转变
+paraphrase|v./n.|意译；改述
+---
+interpret|v.|口译；解释；说明；领会；理解||interpretation n. 口译；解释。interpreter n. 口译员
+narrate|v.|讲（故事）；叙述
+---
+illuminate|v.|阐释；说明；照亮
+decipher|v.|译解；辨认
+eloquence|n.|雄辩；流利的口才||eloquent adj. 雄辩的；有口才的
+---
+communicate|v.|沟通；交流；传达
+discussion|n.|讨论；谈论
+brainstorm|n./v.|集体自由讨论；头脑风暴；集思广益；进行头脑风暴
+---
+debate|v./n.|辩论；争论；讨论||debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论
+commentary|n.|评论；批评；实况报道
+negotiate|v.|协商；谈判||negotiation n. 协商；谈判。negotiate about 就...进行协商
+contention|n.|争论；争辩；观点
