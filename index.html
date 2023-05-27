@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,6 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.global.min.js"></script>
     <script src="vocabulary.js"></script>
 </head>
+
 <body>
     <div id="app">
         <div class="title-area">
@@ -23,9 +25,7 @@
                     类别
                     <select v-model="category">
                         <option value="">全部</option>
-                        <option 
-                            v-for="(v, k) in vocabulary"
-                            :value="k">{{k}}</option>
+                        <option v-for="(v, k) in vocabulary" :value="k">{{k}}</option>
                     </select>
                 </label>
             </div>
@@ -33,10 +33,7 @@
                 <input type="text" v-model="keyword" placeholder="Keyword to search">
             </div>
         </div>
-        <div
-            v-show="loaded"
-            style="display: none;"
-            class="main-area">
+        <div v-show="loaded" style="display: none;" class="main-area">
             <table>
                 <!-- <thead>
                     <tr>
@@ -63,14 +60,12 @@
                             </td>
                         </tr>
                     </tbody>
-                    <tbody
-                        v-for="(wordGroup, i) of category.words"
-                        :class="`group-color-${i % 5}`">
-                        <tr 
-                            v-for="item of wordGroup"
-                            :key="item.id">
+                    <tbody v-for="(wordGroup, i) of category.words" :class="`group-color-${i % 15}`">
+                        <tr v-for="item of wordGroup" :key="item.id">
                             <td class="index">{{item.id}}</td>
-                            <td><a target="_blank" :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`">{{item.word}}</a></td>
+                            <td><a target="_blank"
+                                    :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`">{{item.word}}</a>
+                            </td>
                             <td class="pos">{{item.pos}}</td>
                             <td>{{item.meaning}}</td>
                             <td class="example">{{item.example}}</td>
@@ -84,4 +79,5 @@
     <footer>By Frank</footer>
     <script src="index.js"></script>
 </body>
+
 </html>

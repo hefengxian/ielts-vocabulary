@@ -44,20 +44,54 @@ a:link, a:visited, a:hover, a:active {
     border-left: 8px solid #f3f3f3;
     background-color: #f3f3f3;
 }
-.group-color-0 {
+
+.group-color-10 {
     border-left: 8px solid #c5e4d4;
 }
-.group-color-1 {
+.group-color-11 {
     border-left: 8px solid #fffdd7;
 }
-.group-color-2 {
+.group-color-12 {
     border-left: 8px solid #fae0bf;
 }
-.group-color-3 {
+.group-color-13 {
     border-left: 8px solid #f8c7dc;
 }
-.group-color-4 {
+.group-color-14 {
     border-left: 8px solid #c7cde7;
+}
+
+
+.group-color-0 {
+    border-left: 8px solid #E63946;
+}
+.group-color-1 {
+    border-left: 8px solid #F1FAEE;
+}
+.group-color-2 {
+    border-left: 8px solid #A8DADC;
+}
+.group-color-3 {
+    border-left: 8px solid #457B9D;
+}
+.group-color-4 {
+    border-left: 8px solid #1D3557;
+}
+
+.group-color-5 {
+    border-left: 8px solid #355070;
+}
+.group-color-6 {
+    border-left: 8px solid #6d597a;
+}
+.group-color-7 {
+    border-left: 8px solid #b56576;
+}
+.group-color-8 {
+    border-left: 8px solid #e56b6f;
+}
+.group-color-9 {
+    border-left: 8px solid #eaac8b;
 }
 
 .title-area h1 {
