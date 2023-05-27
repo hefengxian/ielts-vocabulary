@@ -1636,3 +1636,119 @@ debate|v./n.|辩论；争论；讨论||debatable adj. 有争议的。debate abou
 commentary|n.|评论；批评；实况报道
 negotiate|v.|协商；谈判||negotiation n. 协商；谈判。negotiate about 就...进行协商
 contention|n.|争论；争辩；观点
+===
+娱乐运动
++++
+medium|n./adj.|媒介；中间的；中等的
+press|n.|新闻界；记者；报刊；出版社
+journalist|n.|记者；新闻工作者
+---
+critic|n.|批评家；挑剔的人||critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人
+commentator|n.|评论员；实况解说员
+exponent|n.|阐述者；倡导者；拥护者
+---
+announcer|n.|广播员；播音员
+correspondent|n.|通信者；通讯员；记者
+messenger|n.|邮递员；信使
+editor|n.|编辑；校订者
+typist|n.|打字员
+---
+handout|n.|传单；讲义
+leaflet|n./v.|传单；散发传单
+propaganda|n.|宣传；鼓吹
+---
+publish|v.|公布；出版；发行
+disseminate|v.|散布；传播
+foresee|v.|预见；预知
+---
+anticipate|v.|预期；预料||participate v. 参与
+expect|v.|预料；期待||expectation n. 期待；期望
+await|v.|等候；期待；将降临到...身上
+---
+pastime|n.|娱乐；消遣
+entertain|v.|娱乐；招待；心存；怀有||entertainment n. 娱乐；消遣；款待
+recreation|n.|休闲；娱乐||a recreation ground 公共娱乐场
+---
+amuse|v.|逗乐；给...提供娱乐||amuse oneself 自娱自乐
+gossip|n.|闲聊；流言蜚语
+rumour|n.|=rumor 谣言；传闻
+consensus|n.|共识；一致的意见
+---
+festival|n.|节日
+feast|n.|盛宴；（宗教）节日
+programme|n./v.|=program 节目；方案；程序；为系统设置程序；计划||programmer n. 程序设计员
+rehearsal|n.|排练
+---
+perform|v.|表演；演出
+imitate|v.|模仿；效仿
+mimic|v.|模仿；戏仿
+simulate|v.|模拟；假装；冒充||simulative adj. 模拟的；假装的
+---
+circus|n.|马戏团；圆形广场（常用于地名）||a circus clown 马戏团小丑
+magic|n.|魔术；魔法
+drama|n.|戏；剧；戏剧艺术
+---
+concert|n.|音乐会||musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作
+symphony|n.|交响乐
+orchestra|n.|管弦乐队
+ballet|n.|芭蕾舞；芭蕾舞剧
+opera|n.|歌剧
+---
+comedy|n.|喜剧
+tragedy|n.|悲剧；悲惨的事
+animation|n.|动画片；动画制作
+---
+film|n.|影片；胶卷
+movie|n.|电影
+X-rated|adj.|X级的；青少年不宜的
+---
+artist|n.|艺术家
+craftsman|n.|工匠；工艺师
+painter|n.|画家；油漆匠
+---
+role|n.|角色
+scene|n.|景色；现场；（戏剧的）场面
+stage|n.|舞台；阶段||the stage 戏剧演出
+---
+gallery|n.|美术馆
+exhibition|n.展览
+aesthetic|adj. n.|=esthetic 审美的；审美观
+---
+collect|v.|收集；收藏
+select|v./adj.|选择；挑选；精选的
+opt|v.|选择||option n. 选择；选择权。 opt for sth. 选择某事物
+---
+photograph|n.|照片；相片
+portrait|n.|肖像；半身画像
+painting|n.|油画；会话；画作；涂漆
+sculpture|n.|雕塑
+---
+draw|v.|画；拉；拔出
+sketch|n./v.|素描；草图；速写；画素描；画速写
+depict|v.|描述；描写；描绘
+describe|v.|描述；形容
+---
+carve|v.|雕刻；切下
+improvise|v.|临时做；即兴创作||improvisation n. 即兴创作
+musical|adj.|音乐的；悦耳的
+classical|adj.|古典的；传统的
+---
+jazz|n.|爵士乐
+rock|n.|摇滚乐；岩石
+hip-hop|n.|嘻哈文化
+pop|n.|流行音乐；流行乐曲
+lyric|n./adj.|抒情诗；抒情的
+---
+band|n.|乐队；带；波段
+solo|n./adj.|独奏；独唱；独奏的；独唱的
+melody|n.|乐曲；旋律
+rhythm|n.|节奏；韵律
+---
+tone|n.|音色；声调；腔调
+tune|n./v.|曲调；短乐曲；调试
+disc|n.|=disk 光碟；唱片；磁盘
+---
+piano|n.|钢琴
+violin|n.|小提琴
+cello|n.|大提琴
+guitar|n.|吉他
