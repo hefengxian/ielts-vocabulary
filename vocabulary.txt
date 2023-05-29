@@ -1869,3 +1869,35 @@ item|n.|一件物品；一件商品
 merchandise|n.|商品
 souvenir|n.|纪念品
 artifact|n.|=artefact 人造物品；手工艺品
+---
+material|n./adj.|材料；原料；人才；物质的
+raw|adj.|天然的；未经加工的；（感情）原始的
+crude|adj.|天然的；未经加工的；粗超的
+---
+necessity|n.|必需品；必要||necessary adj. 必须的；必要的
+outfit|adj./n.|全套服装；全套装备；配备；装备
+kit|n.|成套工具
+utensil|n.|（家庭）用具；器皿
+---
+garbage|n.|（尤美）垃圾；废物
+rubbish|n.|（尤英）垃圾；废弃物；废话||clear away the rubbish 清除垃圾
+trash|n.|（美）垃圾
+recycle|v.|使再循环；回收利用
+reuse|v.|再次使用
+---
+litter|n./v.|垃圾；废弃物；乱丢东西
+waste|n./v.|废物；浪费
+junk|n.|无用的东西；废物
+landfill|n.|垃圾填埋地；垃圾填埋
+sewerage|n.|排水系统；污水处理系统；（=sewage）污水
+---
+detergent|n.|洗涤剂
+lotion|n.|洁肤乳；润肤乳
+shampoo|v./n.|用洗发剂（头发）；洗发剂
+soap|n./v.|肥皂；用肥皂擦洗
+---
+tub|n.|桶；盆；（美）鱼缸；浴盆
+plug|n./v.|塞子；插头；把...塞住
+tap|n.|旋塞；龙头
+pipe|n.|管子；管道；烟斗
+tube|n.|管；显像管；（英国/伦敦）地铁
