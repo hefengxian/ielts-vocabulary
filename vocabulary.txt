@@ -1901,3 +1901,77 @@ plug|n./v.|塞子；插头；把...塞住
 tap|n.|旋塞；龙头
 pipe|n.|管子；管道；烟斗
 tube|n.|管；显像管；（英国/伦敦）地铁
+---
+mop|n./v.|拖把；用拖把擦
+broom|n./v.|扫帚；用扫帚扫
+sweep|v.|打扫；（迅猛的）吹走；掠过||sweep the board 囊括所有奖项
+---
+mattress|n.|床垫
+carpet|n.|地毯||red carpet （迎接贵宾用的）红毯
+rug|n.|小地毯；（盖肩或腿的）小毛毯
+mat|n.|地垫
+cushion|n.|软垫||a back cushion 靠背垫。a sofa cushion 沙发垫
+pad|n./v.|衬垫；便签本；（用软材料）填塞
+---
+blanket|n.|毛毯；毯子
+quilt|n.|被子
+sheet|n.|被单；床单；一张（纸）；薄板
+pillow|n.|枕头
+sponge|n.|海绵
+towel|n.|毛巾
+---
+staple|n.|订书钉；主要部分
+nail|n./v.|指甲；钉子；（用钉子）钉住
+razor|n.|剃刀；（用剃刀）剃||an electric razor 电动剃须刀
+shave|v.|剃须；刮脸
+---
+fuse|n./v.|保险丝；导火线；（使）融化、融合
+cable|n.|电缆；缆绳；电报；有线电视|a cable car 缆车
+cord|n.|细绳；粗线
+strand|n.|缕；股；滨；案
+---
+match|n./v.|火柴；比赛；匹配的人或物；与...匹配
+candle|n.|蜡烛
+wax|n.|蜡；蜂蜡
+---
+portfolio|n.|文件夹；公事包||briefcase n. 公事包
+paperback|n.|简装书；平装书
+pamphlet|n.|小册子
+tissue|n.|面巾纸；（器官）组织
+cover|n.|封面；盖子；套子
+---
+Xerox|n.|施乐复印机
+duplicate|v./n.|重复；副本；复制品
+memorandum|n.|备忘录；建议书；=memo
+stationery|n.|文具；信纸
+---
+glue|n.|胶水
+ink|n.|墨水
+rubber|n.|（英）橡皮擦；橡胶
+scissors|n.|剪刀
+---
+shear|n./v.|shears（尤指修篱笆用的）大剪刀；剪
+edge|n.|边；边缘；刀口
+rim|n.|（圆形物品的）外缘、边缘
+---
+element|n.|元素；组成部分；基本部分
+factor|n.|因素；要素
+section|n.|部分；章；节
+---
+tag|n.|标签；称号
+label|n.|标签；标贴
+badge|n.|徽章；证章；标志；象征
+---
+bolt|n./v.|螺栓；插销；闩上（门、窗）
+knob|n.|球形把手；旋钮
+handle|n./v.|柄；把手；拿；处理
+---
+shutter|n./v.|百叶窗；快门；停止（营业）
+curtain|n./v.|窗帘；幕布；给...装上帘子
+pane|n.|（一块）玻璃窗
+opacity|n.|不透明性||opaque n. 不透明物体；adj. 不透明的
+---
+jar|n.|罐；广口瓶；猛烈震动
+barrel|n.|桶
+bucket|n.|（有提手的）桶
+pail|n.|（尤美-通常是金属或者木质的）桶；提桶
