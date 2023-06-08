@@ -2118,3 +2118,24 @@ uniform|n./adj.|制服；一致的
 garment|n.|（一件）衣服
 laundry|n.|洗衣店；要（或正在）洗的衣服；刚洗好的衣服||do/hang/iron the laundry 洗/晾/熨衣服
 wardrobe|n.|衣柜；（某人的）全部服装
+---
+overall|n./adj.|（英）（工作时穿的）罩衣；全面的
+overcoat|n.|大衣
+robe|n.|长袍；浴袍
+gown|n.|长外衣；女礼服
+---
+sweater|n.|毛衣；线衣
+jacket|n.|夹克衫
+skirt|n.|裙子
+---
+jeans|n.|牛仔裤
+---
+trousers|n.|（尤英）裤子
+clasp|n./v.|搭扣；扣住
+button|n./v.|纽扣；按钮；扣上...的纽扣||unbutton v. 解开...的纽扣；如解开纽扣一样解开
+---
+glove|n.|手套
+hat|n.|（常指带帽檐的）帽子
+cap|n.|（有帽舌的）帽子；（经费等的）最高限额
+brim|n.|边缘；帽檐
+scarf|n.|围巾；头巾
