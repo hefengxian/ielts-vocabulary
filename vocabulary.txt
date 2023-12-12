@@ -6,7 +6,7 @@ lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the e
 ---
 oxygen|n.|氧气
 oxide|n.|氧化物
-carbon dioxied|n.|二氧化碳
+carbon dioxide|n.|二氧化碳
 hydrogen|n.|氢气
 ---
 core|n.|中心；核心；地核
